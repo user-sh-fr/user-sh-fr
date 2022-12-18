@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koaio&label=Profile%20views&color=0e75b6&style=flat" alt="koaio" /> </p>
 
-- I work at [Slayers Community](https://discord.gg/kXtCCMgkUx)
+- I work at [AdastraLife](https://discord.gg/adastra)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
